@@ -1,7 +1,9 @@
 nav a {
     text-decoration: none;
-    margin: 5px;
+    margin: 10px 20px;
     color: lightblue;
+    font-weight: 800;
+    font-size: 20px;
 }
 
 nav {

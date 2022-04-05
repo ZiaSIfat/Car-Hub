@@ -1,0 +1,8 @@
+.qa-part {
+    color: whitesmoke;
+    background-color: lightblue;
+    border: 2px solid lightslategray;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 100px;
+}
