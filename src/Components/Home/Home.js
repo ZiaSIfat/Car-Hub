@@ -23,7 +23,7 @@ const Home = () => {
                         review={review}
                     ></HomeReviews>)
                 }
-                <button className='all-btn'>See All Reviews</button>
+                <button className='all-btn'>See all reviews</button>
             </div>
         </div>
     );
