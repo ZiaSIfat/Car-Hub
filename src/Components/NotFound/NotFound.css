@@ -1,0 +1,13 @@
+.not-found-container img {
+    height: 300px;
+    width: 350px;
+}
+
+.not-found-container {
+    background-color: lightblue;
+}
+
+.not-found {
+    color: whitesmoke;
+    padding-top: 70px;
+}
