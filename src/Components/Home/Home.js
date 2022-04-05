@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReview from '../../Hook/useReview';
 import HomeReviews from '../HomeReviews/HomeReviews';
 import './Home.css';
@@ -23,7 +24,9 @@ const Home = () => {
                         review={review}
                     ></HomeReviews>)
                 }
-                <button className='all-btn'>See all reviews</button>
+                <Link to='/review'>
+                    <button className='all-btn'>See all reviews</button>
+                </Link>
             </div>
         </div>
     );
