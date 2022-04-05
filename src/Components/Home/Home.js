@@ -16,7 +16,7 @@ const Home = () => {
                 <img src="https://i.dawn.com/primary/2021/04/608a34915c3f9.jpg" alt="" />
             </div>
             <div className='mt-5 review-container'>
-                <h2>Customers Review</h2>
+                <h1>Customers Review</h1>
 
                 {
                     homeReview.map(review => <HomeReviews
