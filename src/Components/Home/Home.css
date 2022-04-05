@@ -1,0 +1,31 @@
+.img-container img {
+    height: 300px;
+    width: 400px;
+}
+
+.heading {
+    font-size: 100px;
+}
+
+.small {
+    font: 800;
+    padding: 5px;
+    background-color: lightblue;
+    color: whitesmoke;
+}
+
+.all-btn {
+    background-color: lightblue;
+    border: 0;
+    border-radius: 10px;
+    padding: 5px 15px;
+    margin-bottom: 5px;
+    color: whitesmoke;
+    border: 1px solid lightslategray;
+}
+
+
+
+.all-btn:hover {
+    background-color: rgb(73, 144, 167)
+}
