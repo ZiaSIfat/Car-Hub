@@ -10,6 +10,7 @@ const Home = () => {
         <div className='row mt-5'>
             <div className='heading-container col-6'>
                 <h1 className='heading'>Car Hub</h1>
+                <p className='heading-para ps-3'>Car is a classy way to express yourself.And it will gonna be a big part of your life for a big time.So before you wanna buy a car think twice before you buy it.</p>
                 <p><small className='small'>Choose your car wisely</small></p>
             </div>
             <div className='img-container col-6'>
